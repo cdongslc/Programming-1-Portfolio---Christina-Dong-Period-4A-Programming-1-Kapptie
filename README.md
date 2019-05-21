@@ -20,4 +20,5 @@
 
 ### Weekday and Date Calculator
 #### This code will tell you the dates and weekdays of Pi Day and Programmer's Day!  Then use this code to calculate the date and week day of any inputted number of days earlier!
-[Weekday and Date Calculator](https://github.com/cdongslc/shapes/blob/master/Week%26DateCalculator.java)
+![Weekday and Date Calculator](https://github.com/cdongslc/shapes/blob/master/Screen%20Shot%202019-05-21%20at%201.49.26%20PM.png)
+[Weekday and Date Calculator Source Code](https://github.com/cdongslc/shapes/blob/master/Week%26DateCalculator.java)
