@@ -16,6 +16,7 @@
 
 ### Circuit Resonants
 #### Use this code to calculate ciruit resonance!
+![Test Circuits](https://github.com/cdongslc/shapes/blob/master/CircuitResonants/Screen%20Shot%202019-05-21%20at%2010.25.32%20PM.png)
 [Circuit Resonance Source Code](https://github.com/cdongslc/shapes/tree/master/CircuitResonants)
 
 ### Weekday and Date Calculator
