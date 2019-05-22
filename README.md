@@ -1,5 +1,6 @@
 # Welcome to Christina's Programming Portfolio
 #### 2018 - 2019 Programming || xingxing9574@hotmail.com
+#### CTE State Certified Java Exam Passed
 
 ## SOLO PROJECTS
 ### Prime Number Generator
