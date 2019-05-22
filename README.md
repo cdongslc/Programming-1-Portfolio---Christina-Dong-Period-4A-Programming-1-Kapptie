@@ -29,6 +29,7 @@
 [Weekday and Date Calculator Source Code](https://github.com/cdongslc/shapes/blob/master/Week%26DateCalculator.java)
 
 ## Group Project
+### Fitness Calculator
 #### Use this calculator to calculate various indicators of physical health!
 ![Fitness Calculator](https://github.com/SkylineHigh/A4Java/blob/master/FitnessCalculator/Screen%20Shot%202019-05-21%20at%2010.53.03%20PM.png)
 [Fitness Calculator Source Code](https://github.com/SkylineHigh/A4Java/tree/master/FitnessCalculator)
