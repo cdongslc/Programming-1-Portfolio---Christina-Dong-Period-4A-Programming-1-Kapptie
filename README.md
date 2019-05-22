@@ -4,14 +4,17 @@
 ## SOLO PROJECTS
 ### Prime Number Generator
 #### Prime numbers are hard to keep track of!  Use this code to generate as many as your heart desires!
+![Prime Number Generator](https://github.com/cdongslc/shapes/blob/master/Screen%20Shot%202019-05-21%20at%2010.45.55%20PM.png)
 [Prime Number Generator Source Code](https://github.com/cdongslc/shapes/blob/master/PrimeNumbers.java)
 
 ### Guessing Game
 #### Try and guess the number and the code will tell you if it's high, low, or correct!
+![Guessing Game](https://github.com/cdongslc/shapes/blob/master/Screen%20Shot%202019-05-21%20at%2010.42.12%20PM.png)
 [Guessing Game Source Code](https://github.com/cdongslc/shapes/blob/master/GuessingGame.java)
 
 ### Pig Latin Translator
 #### Did you get a message in Pig Latin Code?  Use this code to decipher it!
+![Pig Latin Translator](https://github.com/cdongslc/shapes/blob/master/Screen%20Shot%202019-05-21%20at%2010.37.09%20PM.png)
 [Pig Latin Translator Source Code](https://github.com/cdongslc/shapes/blob/master/PigLatinTranslator.java)
 
 ### Circuit Resonants
